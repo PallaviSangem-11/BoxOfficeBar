@@ -29,9 +29,7 @@ A full-stack web application that allows users to browse, rate, and review movie
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
+![Home Page](Screenshots/Home_page.png)
+![Dashboard](Screenshots/Admin_DashBoard.png)
 
-> You can add UI screenshots here in markdown:
-```md
-![Home Page](screenshots/Home_page.png)
-![Dashboard](screenshots/Admin_Dashboard.png)
