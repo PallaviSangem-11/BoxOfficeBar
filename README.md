@@ -30,6 +30,11 @@ A full-stack web application that allows users to browse, rate, and review movie
 ---
 
 ## 📸 Screenshots
+User
 ![Home Page](Screenshots/Home_page.png)
+![Profile](Screenshots/Profile.png)
+![Movie_Card](Screenshots/Movie_Card.png)
+admin
 ![Dashboard](Screenshots/Admin_DashBoard.png)
+![MovieCards](Screenshots/MovieCards_Admin.png)
 
